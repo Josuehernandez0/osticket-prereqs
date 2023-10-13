@@ -58,7 +58,7 @@ Now go to the review and create tab and click the create button on the bottom le
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/df5e9844-91e1-440b-b3fe-fd29d9b5fa9e"/>
+<img src="https://i.imgur.com/y4vDMeP.png"/>
 </p>
 <p>
 Now type Virtual Machines and click create azure virtual machine 
