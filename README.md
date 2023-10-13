@@ -42,7 +42,7 @@ First go to Microsoft Azure and type Resource Group then click create Resource G
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez/osticket-prereqs/assets/143027686/4411c1f1-0cf9-4a78-aadc-3d27c6b34946"/>
+<img src="https://i.imgur.com/Lpk4qRU.png"/>
 </p>
 <p>
 Now type RG-osticket for the name of the Resource Group. Next for the region click US West US 3 
