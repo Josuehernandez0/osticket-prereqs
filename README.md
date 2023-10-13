@@ -66,7 +66,7 @@ Now type Virtual Machines and click create azure virtual machine
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cb8a5a02-b384-4980-aa1f-4b59802e6d30"/>
+<img src="https://i.imgur.com/VUpuKrP.png"/>
 </p>
 <p>
 Now select the resource group we created RG-osticket then the virtual machine name type VM-osticket and the region select the same as the resource group US West US 3 
