@@ -82,7 +82,7 @@ Now for the image select windows 10 pro version. For the size select standard Ec
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/b50019f0-ddcf-4a12-919c-542c96d935e0"/>
+<img src="https://i.imgur.com/gU5W2sl.png"/>
 </p>
 <p>
 Next click the licensing box and then click review and create 
@@ -90,7 +90,7 @@ Next click the licensing box and then click review and create
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e37cdcfd-b0c4-49ec-a404-f857fd297230"/>
+<img src="https://i.imgur.com/l5Woq2y.png"/>
 </p>
 <p>
 Now go to the networking tab and make sure virtual network, subnet, and public ip all says (new)
