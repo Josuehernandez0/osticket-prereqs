@@ -50,7 +50,7 @@ Now type RG-osticket for the name of the Resource Group. Next for the region cli
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/eff6d1ee-3474-4ea3-b73a-87c97f082a6a"/>
+<img src="https://i.imgur.com/IH0h9rm.png"/>
 </p>
 <p>
 Now go to the review and create tab and click the create button on the bottom left 
