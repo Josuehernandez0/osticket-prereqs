@@ -74,7 +74,7 @@ Now select the resource group we created RG-osticket then the virtual machine na
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/74938101-497d-4fd2-98f2-a37d0c3593b9"/>
+<img src="https://i.imgur.com/6HSDPZn.png"/>
 </p>
 <p>
 Now for the image select windows 10 pro version. For the size select standard Ec2 and the username type labuser and the password type a unique password remember to copy all this down on a notepad or physical paper
