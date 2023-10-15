@@ -98,7 +98,7 @@ Now go to the networking tab and make sure virtual network, subnet, and public i
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/aa85a26a-ba88-4299-92f6-5102aac9bdec"/>
+<img src="https://i.imgur.com/4ivyyJu.png"/>
 </p>
 <p>
 Next create the virtual machine and you will see the deployment process start 
@@ -106,7 +106,7 @@ Next create the virtual machine and you will see the deployment process start
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/d11832b6-49a0-49e6-805b-f72a9069c83b"/>
+<img src="https://i.imgur.com/0UlHOQO.png"/>
 </p>
 <p>
 Now the process will be done when you see a green check mark 
