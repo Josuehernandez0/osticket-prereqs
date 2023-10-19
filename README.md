@@ -261,7 +261,7 @@ Now in Common HTTP Features click the box for everything then click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f951f632-2872-4816-b339-7586ea44d7e8"/>
+<img src="https://i.imgur.com/fjlRXHs.png"/>
 </p>
 <p>
 Then you will see a loading screen process 
@@ -269,7 +269,7 @@ Then you will see a loading screen process
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/d3c8f6d1-b2f1-40f0-bb90-fcf03e41ec72"/>
+<img src="https://i.imgur.com/gYpNeSI.png"/>
 </p>
 <p>
 Now open up microsoft excel and click start without your data
@@ -277,7 +277,7 @@ Now open up microsoft excel and click start without your data
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/175c71d1-f746-4507-adeb-946718c85528"/>
+<img src="https://i.imgur.com/imfxzL3.png"/>
 </p>
 <p>
 Now click continue without this data 
