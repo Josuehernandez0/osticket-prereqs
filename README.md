@@ -357,7 +357,7 @@ Finally click close
 <br />
 
 <p>
-<img src="https://i.imgur.com/3DHoN99.png"/>
+<img src="https://i.imgur.com/hEDLHRg.png"/>
 </p>
 <p>
 Next go back to the link and download Rewrite Module click the download symbol 
