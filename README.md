@@ -114,7 +114,7 @@ Now the process will be done when you see a green check mark
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e4a242f3-04f1-4f2b-8d95-2caa45bb360a"/>
+<img src="https://i.imgur.com/9GGUqUv.png"/>
 </p>
 <p>
 Next go back to the virtual machine home page and click VM-osticket then copy the public IP address
@@ -122,7 +122,7 @@ Next go back to the virtual machine home page and click VM-osticket then copy th
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/54a098be-e769-43ab-a3b0-0d96aa70e7c7"/>
+<img src="https://i.imgur.com/oIvrUSd.png"/>
 </p>
 <p>
 Next type Remote Desktop Connection in the search bar of your PC then click to open the app
