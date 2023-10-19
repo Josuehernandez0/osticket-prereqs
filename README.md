@@ -365,7 +365,7 @@ Next go back to the link and download Rewrite Module click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/69b4befa-4082-4076-99b6-fa5726f2be5b"/>
+<img src="https://i.imgur.com/c1OInEq.png"/>
 </p>
 <p>
 Go back to file explorer and double click rewrite 
@@ -373,7 +373,7 @@ Go back to file explorer and double click rewrite
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/d8577920-628a-493c-bf85-6c23f01e8a48"/>
+<img src="https://i.imgur.com/PfaLBqO.png"/>
 </p>
 <p>
 Click I accept then install 
@@ -381,7 +381,7 @@ Click I accept then install
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/092f4b48-9225-4a7f-9674-aa9569bb6d04"/>
+<img src="https://i.imgur.com/uIvVWNM.png"/>
 </p>
 <p>
 Now let the process start 
@@ -389,7 +389,7 @@ Now let the process start
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/46a693bc-84bb-4023-a4d4-ffa5ae957512"/>
+<img src="https://i.imgur.com/4P0G5A1.png"/>
 </p>
 <p>
 Next click finish
@@ -397,7 +397,7 @@ Next click finish
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/437b01b3-cb18-4a5d-b77d-9a1b169d8dab"/>
+<img src="https://i.imgur.com/NRjYek1.png"/>
 </p>
 <p>
 Next go back to the link and download PHP 7.3.8 click the download symbol 
