@@ -130,7 +130,7 @@ Next type Remote Desktop Connection in the search bar of your PC then click to o
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/27639ad0-fd28-4511-9e20-26f49b2e6c36"/>
+<img src="https://i.imgur.com/kwpekMo.png"/>
 </p>
 <p>
 Paste the public IP of VM-osticket into the computer section then click connect 
@@ -138,7 +138,7 @@ Paste the public IP of VM-osticket into the computer section then click connect
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/16f1cecb-7064-45ad-98a2-f9efa9bb89c8"/>
+<img src="https://i.imgur.com/nOounVO.png"/>
 </p>
 <p>
 <img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cbbc0261-d0f2-475f-9cf5-6579f2cca14b"/>
