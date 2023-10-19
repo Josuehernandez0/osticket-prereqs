@@ -181,7 +181,7 @@ Now once the networks tab shows on the right side of the screen then click yes
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/7626cf37-a8d9-4020-882f-0c15148e0d5f"/>
+<img src="https://i.imgur.com/jIsjpOT.png"/>
 </p>
 <p>
 Next right click the windows icon on the bottom left then click run 
@@ -189,7 +189,7 @@ Next right click the windows icon on the bottom left then click run
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/595c1128-d938-4e92-a399-d86804ef641a"/>
+<img src="https://i.imgur.com/XAItnC9.png"/>
 </p>
 <p>
 Now type control type then click ok 
@@ -197,7 +197,7 @@ Now type control type then click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/82a026ed-526c-45f7-8562-9c7406d04d12"/>
+<img src="https://i.imgur.com/IKbOzBn.png"/>
 </p>
 <p>
 Now click programs 
