@@ -477,7 +477,7 @@ Now click the extract button
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/912c3522-5954-42fa-a380-933cd7957a99"/>
+<img src="https://i.imgur.com/G2YyWsC.png"/>
 </p>
 <p>
 Next you will see all the files load into the PHP folder
@@ -485,7 +485,7 @@ Next you will see all the files load into the PHP folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/9668435c-d238-4608-8022-7020a6e8bf38"/>
+<img src="https://i.imgur.com/k1f3xCC.png"/>
 </p>
 <p>
 Next go to the link and click the link to download VC RedistX86.exe click the download symbol
@@ -493,7 +493,7 @@ Next go to the link and click the link to download VC RedistX86.exe click the do
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/5da2381e-027b-41ee-9df3-cbd21331a21d"/>
+<img src="https://i.imgur.com/u6SeSam.png"/>
 </p>
 <p>
 Now go to file explorer and double click VC_redist 
@@ -501,7 +501,7 @@ Now go to file explorer and double click VC_redist
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/2b2a82b7-ea2b-49b5-80b7-dc333e7e2bc0"/>
+<img src="https://i.imgur.com/m6Os30Q.png"/>
 </p>
 <p>
 Click Install 
@@ -509,7 +509,7 @@ Click Install
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/be911f23-5a1f-459b-bf54-5a251a45a236"/>
+<img src="https://i.imgur.com/UETxXLC.png"/>
 </p>
 <p>
 Now once the process is done click close 
@@ -517,7 +517,7 @@ Now once the process is done click close
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e619f6d7-0ded-4bc0-a953-ff2bdf7e0c27"/>
+<img src="https://i.imgur.com/yIYvKjj.png"/>
 </p>
 <p>
 Next click the link an download MySQL 5.5.62 then click the download symbol 
@@ -525,7 +525,7 @@ Next click the link an download MySQL 5.5.62 then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c76ee24a-f88b-444d-ba1b-d3783dc2d6d8"/>
+<img src="https://i.imgur.com/0nJLJmI.png"/>
 </p>
 <p>
 Now go to file explorer and double click mysql to open the program 
@@ -533,7 +533,7 @@ Now go to file explorer and double click mysql to open the program
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/20c47cb8-c2f9-48eb-95d2-d7884a07d734"/>
+<img src="https://i.imgur.com/qpCsSNu.png"/>
 </p>
 <p>
 Next click next 
@@ -541,7 +541,7 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/008e08c5-a0b1-48a1-a669-d23511da9b39"/>
+<img src="https://i.imgur.com/ytdoReA.png"/>
 </p>
 <p>
 Next click next 
@@ -549,7 +549,7 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/ed8dad36-e031-417d-9b9f-3d2640d59f12"/>
+<img src="https://i.imgur.com/zBasKVo.png"/>
 </p>
 <p>
 Now click Typical 
@@ -557,7 +557,7 @@ Now click Typical
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/937d59b3-4945-40f8-8757-2c6edc041c51"/>
+<img src="https://i.imgur.com/3Jq4MiR.png"/>
 </p>
 <p>
 Next click install 
@@ -565,7 +565,7 @@ Next click install
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1f4fc9ed-d2f2-4445-b61d-b1ee1f4d6a3f"/>
+<img src="https://i.imgur.com/8PY9wno.png"/>
 </p>
 <p>
 Now click finish 
@@ -573,7 +573,7 @@ Now click finish
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cb13b58c-6c6f-46a1-bbf6-09986ded6e1f"/>
+<img src="https://i.imgur.com/tx9WwHk.png"/>
 </p>
 <p>
 Now click next 
@@ -581,7 +581,7 @@ Now click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1926c0fc-b984-438d-b863-8d3d993ac0ea"/>
+<img src="https://i.imgur.com/9K1OWZb.png"/>
 </p>
 <p>
 Now click Standard Configuration then click next 
@@ -589,7 +589,7 @@ Now click Standard Configuration then click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a5aaf679-e76d-4e4d-bf58-d9cef62cbce8"/>
+<img src="https://i.imgur.com/PhgvASW.png"/>
 </p>
 <p>
 Now click Install as Windows Service then click next 
@@ -597,7 +597,7 @@ Now click Install as Windows Service then click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/8308594d-9b64-400e-8de3-e794ed296f70"/>
+<img src="https://i.imgur.com/P97ViWS.png"/>
 </p>
 <p>
 Now type the password. For this example I'm going to type Password1 then click next 
