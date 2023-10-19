@@ -285,7 +285,7 @@ Now click continue without this data
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/4e728615-2d5f-4c21-b43b-c4d1cf9bbcb1"/>
+<img src="https://i.imgur.com/vBIVXds.png"/>
 </p>
 <p>
 Next click confirm and continue 
@@ -293,7 +293,7 @@ Next click confirm and continue
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a5ea5ff4-09a3-4213-b9e3-d5d281f3623b"/>
+<img src="https://i.imgur.com/B0baAtj.png"/>
 </p>
 <p>
 Finally click continue and start browsing 
@@ -301,7 +301,7 @@ Finally click continue and start browsing
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/9851b44c-23d1-4d32-a61b-6ce5ad7526c1"/>
+<img src="https://i.imgur.com/LqQLAo4.png"/>
 </p>
 <p>
 Next once the process is complete click close 
@@ -309,7 +309,7 @@ Next once the process is complete click close
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/6a79a3e7-d690-4a16-9b19-cd313e78ed8e"/>
+<img src="https://i.imgur.com/y8tNZPJ.png"/>
 </p>
 <p>
 Now in order to see if the process worked type 127.0.0.1 in the search bar and you will see the same image above 
@@ -317,7 +317,7 @@ Now in order to see if the process worked type 127.0.0.1 in the search bar and y
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/7ede1ce6-e69f-4421-99f3-e81ddeb05f91"/>
+<img src="https://i.imgur.com/vKwfau3.png"/>
 </p>
 <p>
 Next open the link and download PHP Manager for IIS click the download symbol on the side
@@ -325,7 +325,7 @@ Next open the link and download PHP Manager for IIS click the download symbol on
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/557bc0ab-6ed6-4b2c-947c-c445bd5f0b53"/>
+<img src="https://i.imgur.com/lDgekwz.png"/>
 </p>
 <p>
 Now open up file explorer and go to your downloads folder then double click PHP manager 
@@ -333,7 +333,7 @@ Now open up file explorer and go to your downloads folder then double click PHP 
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f716cf3e-09b0-4626-99df-38eaa1e3af29"/>
+<img src="https://i.imgur.com/PP7AS3i.png"/>
 </p>
 <p>
 Next click next 
@@ -341,7 +341,7 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/282eeedf-144b-4e5a-8f3b-5e10c680f1c5"/>
+<img src="https://i.imgur.com/vpbruIC.png"/>
 </p>
 <p>
 Next click I agree and then next 
@@ -349,7 +349,7 @@ Next click I agree and then next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/bf7f526b-81bf-4bb4-ad28-c7c21fac535a"/>
+<img src="https://i.imgur.com/3DHoN99.png"/>
 </p>
 <p>
 Finally click close 
@@ -357,7 +357,7 @@ Finally click close
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/dd9df8e2-659b-4457-a1d1-00d6bc838fd0"/>
+<img src="https://i.imgur.com/3DHoN99.png"/>
 </p>
 <p>
 Next go back to the link and download Rewrite Module click the download symbol 
