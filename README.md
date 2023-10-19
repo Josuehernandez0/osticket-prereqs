@@ -605,7 +605,7 @@ Now type the password. For this example I'm going to type Password1 then click n
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/43cc6062-a91c-45b0-8a92-6a6a54352a95"/>
+<img src="https://i.imgur.com/KkpXSJK.png"/>
 </p>
 <p>
 Next click execute to finish the process
@@ -613,7 +613,7 @@ Next click execute to finish the process
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e3da9c2f-3f14-4be1-9257-7655551e44fa"/>
+<img src="https://i.imgur.com/FgzpIap.png"/>
 </p>
 <p>
 You will then see the process finish 
@@ -621,7 +621,7 @@ You will then see the process finish
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cadedd65-6d83-4410-a35d-80498ddc9a08"/>
+<img src="https://i.imgur.com/BGCFHsD.png"/>
 </p>
 <p>
 Now type IIS or Internet Information Services then right click then click run as administrator 
@@ -629,7 +629,7 @@ Now type IIS or Internet Information Services then right click then click run as
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/5f0a0fe5-14b6-4fcb-be1a-de682dce0d72"/>
+<img src="https://i.imgur.com/EoIAN1C.png"/>
 </p>
 <p>
 Now click PHP Manager 
@@ -637,7 +637,7 @@ Now click PHP Manager
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/4a0bfe9a-840e-48fa-ac4e-428cb082281f"/>
+<img src="https://i.imgur.com/u8hV3Ma.png"/>
 </p>
 <p>
 Next click Register new PHP version 
@@ -645,7 +645,7 @@ Next click Register new PHP version
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/ebbc52d3-3b98-4d04-923d-bb8db0565ef2"/>
+<img src="https://i.imgur.com/9PPZuWc.png"/>
 </p>
 <p>
 Now you will see this tab, click the three dots on the right side  
@@ -653,7 +653,7 @@ Now you will see this tab, click the three dots on the right side
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/37ab34e9-80f1-489a-9b61-f52032aed5b0"/>
+<img src="https://i.imgur.com/pVIW6xL.png"/>
 </p>
 <p>
 Now go to Windows (C) then click the PHP folder we created earlier 
@@ -661,7 +661,7 @@ Now go to Windows (C) then click the PHP folder we created earlier
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/2145448d-3c40-41be-b8e0-d148f17f4ab4"/>
+<img src="https://i.imgur.com/w2xWnbT.png"/>
 </p>
 <p>
 Now click the PHP foler then click php-cgi 
@@ -669,7 +669,7 @@ Now click the PHP foler then click php-cgi
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/2088c3cf-6797-45f8-a674-e6378ce5abd5"/>
+<img src="https://i.imgur.com/9FaeP0W.png"/>
 </p>
 <p>
 Now you will see the path before you on the white bar then click ok 
@@ -677,7 +677,7 @@ Now you will see the path before you on the white bar then click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/20c27225-d41e-4637-8edd-27bc194c39e1"/>
+<img src="https://i.imgur.com/kO939J1.png"/>
 </p>
 <p>
 Now you will see that the caution sign disappeared from PHP Setup
@@ -685,7 +685,7 @@ Now you will see that the caution sign disappeared from PHP Setup
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/6640a965-fdfe-4a0f-b1e1-3d247d23993d"/>
+<img src="https://i.imgur.com/VCuiFyp.png"/>
 </p>
 <p>
 Go back to Microsoft Azure and click VM-osticket then click restart. Then click yes to restart the VM
@@ -693,7 +693,7 @@ Go back to Microsoft Azure and click VM-osticket then click restart. Then click 
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/3a46f250-37fd-4d70-847a-22b7f7b16f17"/>
+<img src="https://i.imgur.com/11uvo9h.png"/>
 </p>
 <p>
 Now you will see that the VM is loading 
@@ -701,7 +701,7 @@ Now you will see that the VM is loading
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c78817ef-dd63-4454-b60f-39eac21ff56e"/>
+<img src="https://i.imgur.com/vqFssDO.png"/>
 </p>
 <p>
 Now go to the link and download osTicket then click the download symbol
