@@ -141,7 +141,7 @@ Paste the public IP of VM-osticket into the computer section then click connect
 <img src="https://i.imgur.com/nOounVO.png"/>
 </p>
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cbbc0261-d0f2-475f-9cf5-6579f2cca14b"/>
+<img src="https://i.imgur.com/xPmXf4U.png"/>
 </p>
 <p>
 now for the user name type labuser and the password type the password you made for the VM
@@ -149,7 +149,7 @@ now for the user name type labuser and the password type the password you made f
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c14f377c-ff81-4314-98ce-a3cdbcd715aa"/>
+<img src="https://i.imgur.com/gADq5sY.png"/>
 </p>
 <p>
 Next click yes to connect to the VM
@@ -157,7 +157,7 @@ Next click yes to connect to the VM
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/b00ae585-36e3-49b2-ba7b-012404b2f796"/>
+<img src="https://i.imgur.com/pI6DhIL.png"/>
 </p>
 <p>
 Now you will see the virtual machine log into labuser load
@@ -165,7 +165,7 @@ Now you will see the virtual machine log into labuser load
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/9ffead6c-4b08-444a-8223-8c2f5d16661d"/>
+<img src="https://i.imgur.com/lMKl6nK.png"/>
 </p>
 <p>
 Now click no for all the following in the image above 
@@ -173,7 +173,7 @@ Now click no for all the following in the image above
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/081fb0bc-7143-403c-9b80-6cf81c7c2491"/>
+<img src="https://i.imgur.com/jhRDu2J.png"/>
 </p>
 <p>
 Now once the networks tab shows on the right side of the screen then click yes 
