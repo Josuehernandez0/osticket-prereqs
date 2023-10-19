@@ -205,7 +205,7 @@ Now click programs
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/5a0f17a5-dbcd-49f8-aabe-a84207a13387"/>
+<img src="https://i.imgur.com/QYjBO3n.png"/>
 </p>
 <p>
 Click programs and features
@@ -213,7 +213,7 @@ Click programs and features
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/ea423df3-a563-4f17-b17a-8007de3e9c64"/>
+<img src="https://i.imgur.com/4e8qWzP.png"/>
 </p>
 <p>
 Now click Internet Information Services
@@ -221,7 +221,7 @@ Now click Internet Information Services
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/d42c75c7-4921-4219-aeda-c299198931b5"/>
+<img src=""/>
 </p>
 <p>
 Now click world wide web services 
@@ -229,7 +229,7 @@ Now click world wide web services
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c71c54ff-8fc8-43fc-9c27-d93263712547"/>
+<img src="https://i.imgur.com/gllKSBr.png"/>
 </p>
 <p>
 Next click application development features 
@@ -237,7 +237,7 @@ Next click application development features
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/ecbffb91-0e4c-45fa-992b-c9fbd532e067"/>
+<img src="https://i.imgur.com/55sqEO6.png"/>
 </p>
 <p>
 Next click the box for CGI
@@ -245,7 +245,7 @@ Next click the box for CGI
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f114579a-ceb8-4ecb-8b48-656b1d63dcc8"/>
+<img src="https://i.imgur.com/YgamoYY.png"/>
 </p>
 <p>
 Next click Common HTTP Features 
@@ -253,7 +253,7 @@ Next click Common HTTP Features
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f577be71-ef65-4554-b40f-0088df36f689"/>
+<img src="https://i.imgur.com/NFaEeiV.png"/>
 </p>
 <p>
 Now in Common HTTP Features click the box for everything then click ok 
