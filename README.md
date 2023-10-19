@@ -405,7 +405,7 @@ Next go back to the link and download PHP 7.3.8 click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c10e3dc0-4e13-43b9-ade7-d569f3b56190"/>
+<img src="https://i.imgur.com/U0b4Brl.png"/>
 </p>
 <p>
 Go back to file explorer and you will see the file in the download folder 
@@ -413,7 +413,7 @@ Go back to file explorer and you will see the file in the download folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a02af26e-5491-4005-938e-ff743d86e07e"/>
+<img src="https://i.imgur.com/B2k4ALc.png"/>
 </p>
 <p>
 Now click on Windows (C) 
@@ -421,7 +421,7 @@ Now click on Windows (C)
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/14176c62-b5c9-43c8-8bd4-4e9177aa22ef"/>
+<img src="https://i.imgur.com/HSjtjff.png"/>
 </p>
 <p>
 From here right click anywhere and click new then select folder 
@@ -429,7 +429,7 @@ From here right click anywhere and click new then select folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/7889b411-2c14-4dc2-92b9-c6b6228adfb3"/>
+<img src="https://i.imgur.com/S6eiMCm.png"/>
 </p>
 <p>
 Now name the folder PHP
@@ -437,7 +437,7 @@ Now name the folder PHP
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/de31d752-c9a0-48e5-a9c4-f0308f22d181"/>
+<img src="https://i.imgur.com/zOGdeuB.png"/>
 </p>
 <p>
 Go back to the download folder and right click php folder then click Extract All
@@ -445,7 +445,7 @@ Go back to the download folder and right click php folder then click Extract All
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1e3de15f-05df-40a2-94ef-90223a2dc1a1"/>
+<img src="https://i.imgur.com/xQtIyqC.png"/>
 </p>
 <p>
 Now click browse 
@@ -453,7 +453,7 @@ Now click browse
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/de6ff1d7-429c-4a19-8678-72315387fd0e"/>
+<img src="https://i.imgur.com/WORzo0E.png"/>
 </p>
 <p>
 Next go to Windows (C) then click the PHP folder we created 
@@ -461,7 +461,7 @@ Next go to Windows (C) then click the PHP folder we created
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/db4b6ead-5edc-47d6-9b8a-2e223f4a9178"/>
+<img src="https://i.imgur.com/ao4kf1q.png"/>
 </p>
 <p>
 Now once you are in the folder click select folder on the bottom right 
@@ -469,7 +469,7 @@ Now once you are in the folder click select folder on the bottom right
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/288c3d65-7bff-47c0-8161-1b50fe62a534"/>
+<img src="https://i.imgur.com/yRftp6b.png"/>
 </p>
 <p>
 Now click the extract button
