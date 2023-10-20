@@ -837,7 +837,7 @@ Next click enable or disable an extension
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/bbb4ad96-ae43-4098-97b8-0460b4258dea"/>
+<img src="https://i.imgur.com/bAwCveu.png"/>
 </p>
 <p>
 Now find php_imap.dll we can see its disbale then click, then go to the top right then click enable 
@@ -845,7 +845,7 @@ Now find php_imap.dll we can see its disbale then click, then go to the top righ
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/d272733a-a8f5-42e6-a104-a8acf1d87e06"/>
+<img src="https://i.imgur.com/oArK1AX.png"/>
 </p>
 <p>
 Now find php_intl.dll then click, then go to the top right then click enable 
@@ -853,7 +853,7 @@ Now find php_intl.dll then click, then go to the top right then click enable
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/76650fea-0640-49b0-a41a-e40fbf2d3456"/>
+<img src="https://i.imgur.com/JCXerWJ.png"/>
 </p>
 <p>
 Now find php_opcache.dll then click, then go to the top right then click enable
@@ -861,7 +861,7 @@ Now find php_opcache.dll then click, then go to the top right then click enable
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f56f70f5-6900-4801-aa07-578c9e2a9855"/>
+<img src="https://i.imgur.com/dd4dzUc.png"/>
 </p>
 <p>
 Now go back to the osTicket home page 
@@ -869,7 +869,7 @@ Now go back to the osTicket home page
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/07f2bf28-3b75-4b93-9d9c-b93c420cb762"/>
+<img src="https://i.imgur.com/9VqSnFX.png"/>
 </p>
 <p>
 Next click continue 
@@ -877,7 +877,7 @@ Next click continue
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a2a60e2c-1ff6-4bcf-96ae-cc58edbae2ea"/>
+<img src="https://i.imgur.com/HZMFMyQ.png"/>
 </p>
 <p>
 Now go back to the osTicket folder from wwwroot
@@ -885,7 +885,7 @@ Now go back to the osTicket folder from wwwroot
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/3ea95a96-51ad-4e58-b83a-b0efefa789bd"/>
+<img src="https://i.imgur.com/lkNAMps.png"/>
 </p>
 <p>
 Next click the include folder 
@@ -893,7 +893,7 @@ Next click the include folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/42c79898-b086-4a31-9fb0-1fec407d6a2c"/>
+<img src="https://i.imgur.com/M9iWACh.png"/>
 </p>
 <p>
 Now click ost-sampleconfig.php
@@ -901,7 +901,7 @@ Now click ost-sampleconfig.php
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/7fc88de0-5eca-4a5d-9256-4c6bc2407a9b"/>
+<img src="https://i.imgur.com/U9lfhJ9.png"/>
 </p>
 <p>
 Now rename the file to ost-config.php
