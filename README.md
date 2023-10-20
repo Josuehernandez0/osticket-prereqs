@@ -909,7 +909,7 @@ Now rename the file to ost-config.php
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/811492d9-ef0b-47d5-b51f-e11fc80f25ab"/>
+<img src="https://i.imgur.com/foHfpMR.png"/>
 </p>
 <p>
 Next right click the file then go to properties 
@@ -917,7 +917,7 @@ Next right click the file then go to properties
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/fa970fff-95f5-4221-b56c-94db11a0d440"/>
+<img src="https://i.imgur.com/f8npPLS.png"/>
 </p>
 <p>
 Now click the security tab 
