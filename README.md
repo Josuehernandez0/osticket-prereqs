@@ -709,7 +709,7 @@ Now go to the link and download osTicket then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/628b7a9f-2c18-4acd-a0d0-e4e556907578"/>
+<img src="https://i.imgur.com/4m9qzlH.png"/>
 </p>
 <p>
 Next open file explorer and you will see osTicket was installed as a zip file 
@@ -717,7 +717,7 @@ Next open file explorer and you will see osTicket was installed as a zip file
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/0fda9fa0-2436-496a-9c11-69cb9dacb6ee"/>
+<img src="https://i.imgur.com/Hb7VSOo.png"/>
 </p>
 <p>
 Next go to Windows (C)
@@ -725,7 +725,7 @@ Next go to Windows (C)
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/45b9b90a-84c1-45aa-b7e6-2ea1c0aa785f"/>
+<img src="https://i.imgur.com/kVKw9uM.png"/>
 </p>
 <p>
 Next click inetpub folder 
@@ -733,7 +733,7 @@ Next click inetpub folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/bbf29450-52f0-41ff-ad80-53c9c17caf42"/>
+<img src="https://i.imgur.com/IGbq7Cw.png"/>
 </p>
 <p>
 Now click the wwwroot folder
@@ -741,7 +741,7 @@ Now click the wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/df9cc101-2472-40d4-be92-54ee43ef90c7"/>
+<img src="https://i.imgur.com/VtbvteT.png"/>
 </p>
 <p>
 Now you will be in the wwwroot folder and see the following 
@@ -749,7 +749,7 @@ Now you will be in the wwwroot folder and see the following
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/2393e12c-ada5-4532-8ed5-af6f456cad69"/>
+<img src="https://i.imgur.com/03W4GNd.png"/>
 </p>
 <p>
 Next go back to the osTicket folder and click the upload folder 
@@ -757,7 +757,7 @@ Next go back to the osTicket folder and click the upload folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/8ab5c340-0c96-4c88-bc5b-8e407b26c4c4"/>
+<img src="https://i.imgur.com/2RUSNBA.png"/>
 </p>
 <p>
 Now drag the upload file to the wwwroot folder
@@ -765,7 +765,7 @@ Now drag the upload file to the wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e498f010-8092-4e5b-9fe1-a223e392605f"/>
+<img src="https://i.imgur.com/IfXIAgn.png"/>
 </p>
 <p>
 Once the files are done copying over rename the file osTicket in wwwroot folder
@@ -773,7 +773,7 @@ Once the files are done copying over rename the file osTicket in wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1bdebc35-ffc8-421e-a1a5-f82d0750f6a2"/>
+<img src="https://i.imgur.com/myuhkb3.png"/>
 </p>
 <p>
 Next type IIS or Internet Information Services then right click and open as administrator
@@ -781,7 +781,7 @@ Next type IIS or Internet Information Services then right click and open as admi
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/8f159bee-0b7b-4625-9a7f-f8987bdbea71"/>
+<img src="https://i.imgur.com/HMnxF2Y.png"/>
 </p>
 <p>
 Now click the VM-osticket and then click restart on the right side 
@@ -789,7 +789,7 @@ Now click the VM-osticket and then click restart on the right side
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/ac9a6e67-47a2-4e1c-b8d2-0774756155fc"/>
+<img src="https://i.imgur.com/urd7qTb.png"/>
 </p>
 <p>
 Next click the sites folder 
@@ -797,7 +797,7 @@ Next click the sites folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/b53533a6-5499-495b-9d12-2888c9fe441c"/>
+<img src="https://i.imgur.com/Rh9DnPy.png"/>
 </p>
 <p>
 Next click the osTicket folder 
@@ -805,7 +805,7 @@ Next click the osTicket folder
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/0b312203-94be-4dfc-b1f6-b8003c65afb8"/>
+<img src="https://i.imgur.com/P4dRIzl.png"/>
 </p>
 <p>
 Now click Browse *80 (http) 
@@ -813,7 +813,7 @@ Now click Browse *80 (http)
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/075cdf14-74d8-48db-932f-ebcfb99cdce3"/>
+<img src="https://i.imgur.com/ZYts3VL.png"/>
 </p>
 <p>
 You will see the page load with alot of green check and red checks 
@@ -821,7 +821,7 @@ You will see the page load with alot of green check and red checks
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/9e4cd293-049d-4e3e-bfc1-b3384f31798a"/>
+<img src="https://i.imgur.com/Zlut5pV.png"/>
 </p>
 <p>
 Next go to PHP Manager 
@@ -829,7 +829,7 @@ Next go to PHP Manager
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/09fd821f-6935-4610-a48b-86d3e49b3528"/>
+<img src=""/>
 </p>
 <p>
 Next click enable or disable an extension 
