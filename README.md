@@ -925,7 +925,7 @@ Now click the security tab
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a46381c5-d906-481f-bec0-f9cb3783d8ed"/>
+<img src="https://i.imgur.com/6Ym5ikw.png"/>
 </p>
 <p>
 Next click the advanced button
@@ -933,7 +933,7 @@ Next click the advanced button
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/55a113f1-bffb-4338-9bc9-5621c7368e77"/>
+<img src="https://i.imgur.com/X9Ptavd.png"/>
 </p>
 <p>
 Now click disable inheritance 
@@ -941,7 +941,7 @@ Now click disable inheritance
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/cffb17c6-f381-4187-af58-93ae40460bf0"/>
+<img src="https://i.imgur.com/kDmMHFN.png"/>
 </p>
 <p>
 Next click remove all inherited permission from this object 
@@ -949,7 +949,7 @@ Next click remove all inherited permission from this object
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/8ad6d188-2cbd-44fb-8509-fe4ba7176163"/>
+<img src="https://i.imgur.com/a5BR6Qt.png"/>
 </p>
 <p>
 Next click add 
@@ -957,7 +957,7 @@ Next click add
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/176efbeb-5fdc-4a70-9a44-1c9c59d0ac4e"/>
+<img src="https://i.imgur.com/6tzVHdP.png"/>
 </p>
 <p>
 Next click select a principal
@@ -965,7 +965,7 @@ Next click select a principal
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/85fc3f75-b2ad-46d6-83a4-63d26dc9e2ce"/>
+<img src="https://i.imgur.com/Wip4Xsj.png"/>
 </p>
 <p>
 Now type everyone 
@@ -973,7 +973,7 @@ Now type everyone
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a857d05b-234a-475c-9f9b-55cfc4368e3c"/>
+<img src="https://i.imgur.com/RJ4EwW0.png"/>
 </p>
 <p>
 Now click ok 
@@ -981,7 +981,7 @@ Now click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/4c34624d-f5e2-48df-8b73-e9fb157fafe2"/>
+<img src="https://i.imgur.com/DR7D1sK.png"/>
 </p>
 <p>
 Now click all the permissions then click ok 
@@ -989,7 +989,7 @@ Now click all the permissions then click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1c591885-b33f-484d-aafe-f2ac5f5768ce"/>
+<img src="https://i.imgur.com/zqdVFh0.png"/>
 </p>
 <p>
 Now click apply 
@@ -997,7 +997,7 @@ Now click apply
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/7be67c43-7a1e-4804-985d-a2c216d5c44b"/>
+<img src="https://i.imgur.com/iyr1NZU.png"/>
 </p>
 <p>
 Next click ok 
@@ -1005,7 +1005,7 @@ Next click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/3c17f685-1f6e-4e1b-9b23-8d4eab55626b"/>
+<img src="https://i.imgur.com/mRfhtZy.png"/>
 </p>
 <p>
 Now click ok 
@@ -1013,7 +1013,7 @@ Now click ok
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/3998f1b6-1ca6-43c2-bc39-bc7b02703444"/>
+<img src="https://i.imgur.com/hqRagGe.png"/>
 </p>
 <p>
 Next go back to the OsTicket home page and click continue
@@ -1021,14 +1021,14 @@ Next go back to the OsTicket home page and click continue
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/0563e86f-5b37-4e20-97e5-28762d41a552"/>
+<img src="https://i.imgur.com/OKnJXfb.png"/>
 </p>
 <p>
 For the helpdesk name type josh help desk, the deafult email type josh@help.com. Now for admin user the first name type josh then the last name type garcia. For email address type josh@gmail.com. For the username josh then type the password I will type Password1. 
 </p>
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/f76320fc-4ab9-41f5-b3c4-a057330a89a1"/>
+<img src="https://i.imgur.com/t9ceyCO.png"/>
 </p>
 <p>
 Now go to back to the link and download HeidiSQL then click the download symbol
@@ -1036,7 +1036,7 @@ Now go to back to the link and download HeidiSQL then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/28b301f0-e839-4cbd-8aea-f1d5bcdceb40"/>
+<img src="https://i.imgur.com/yTRonxp.png"/>
 </p>
 <p>
 Now go to file explorer and double click HediSQL
@@ -1044,7 +1044,7 @@ Now go to file explorer and double click HediSQL
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/c8d7d7ea-f9e5-483a-84ba-42fc48c34c14"/>
+<img src="https://i.imgur.com/5R3jRlp.png"/>
 </p>
 <p>
 Next click I accept the agreement then click next 
@@ -1052,7 +1052,7 @@ Next click I accept the agreement then click next
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/4c09d5e1-a1ec-4ecd-b351-cff2644c9352"/>
+<img src="https://i.imgur.com/idkFGSE.png"/>
 </p>
 <p>
 Next click install
@@ -1060,7 +1060,7 @@ Next click install
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/052ad3b3-ab82-4479-88bf-859a28d2f721"/>
+<img src="https://i.imgur.com/LHVIG47.png"/>
 </p>
 <p>
 You will see the process start 
@@ -1068,7 +1068,7 @@ You will see the process start
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/e52fd989-0735-449d-ac63-32d03400e29d"/>
+<img src="https://i.imgur.com/nHpurgy.png"/>
 </p>
 <p>
 Next click finish 
@@ -1076,7 +1076,7 @@ Next click finish
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/93171893-f444-4e2c-a3ef-6ec6fa81f7ac"/>
+<img src="https://i.imgur.com/ElwcyFp.png"/>
 </p>
 <p>
 Next click skip 
@@ -1084,7 +1084,7 @@ Next click skip
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/02baf490-ba6b-4042-a825-0088e7c583ff"/>
+<img src="https://i.imgur.com/hUWMEba.png"/>
 </p>
 <p>
 Now type root
@@ -1092,7 +1092,7 @@ Now type root
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/1c84cfb4-97d7-4014-a1ec-3dffb2c1c4c7"/>
+<img src="https://i.imgur.com/9qRVwk3.png"/>
 </p>
 <p>
 Next for the password section type Password1 then click open
@@ -1100,7 +1100,7 @@ Next for the password section type Password1 then click open
 <br />
 
 <p>
-<img src="https://github.com/josuehernandez0/osticket-prereqs/assets/143027686/a4b4daff-d66e-4e86-b894-212d91c6f0f8"/>
+<img src="https://i.imgur.com/CicD6WG.png"/>
 </p>
 <p>
 Now you will see the unamed tab 
